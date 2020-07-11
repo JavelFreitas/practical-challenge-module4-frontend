@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Practical Challenge - module 4
+
+Practical challenge from IGTI's 2020 Fullstack Bootcamp.
+
+## Objective
+
+To practice React knowledge acquired during Module 3 classes in a module 4 project.
+
+## About the project
+
+```
+The aplication displays students names based on a filter, selecting the name shows that student information.
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
